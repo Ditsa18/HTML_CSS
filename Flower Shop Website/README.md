@@ -75,7 +75,3 @@ git clone https://github.com/your-username/bouquet.git
 **Ditsa Bakshi – Student**
 
 ---
-
-
-
-Do you want me to do that next?
